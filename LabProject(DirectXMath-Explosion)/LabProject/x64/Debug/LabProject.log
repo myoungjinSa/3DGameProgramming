@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Boss.cpp
+  Camera.cpp
+  GameFramework.cpp
+  GameObject.cpp
+  LabProject.cpp
+  Mesh.cpp
+  Player.cpp
+  Scene.cpp
+  Timer.cpp
+  코드를 생성하고 있습니다...
+Scene.obj : error LNK2019: "public: void __cdecl CScene::SetImage(struct HINSTANCE__ *)" (?SetImage@CScene@@QEAAXPEAUHINSTANCE__@@@Z) 외부 기호(참조 위치: "public: virtual void __cdecl CScene::BuildObjects(struct HINSTANCE__ *,class CPlayer *)" (?BuildObjects@CScene@@UEAAXPEAUHINSTANCE__@@PEAVCPlayer@@@Z) 함수)에서 확인하지 못했습니다.
+D:\myGithub-Backup_folder\LabProject(DirectXMath-Explosion)\x64\Debug\LabProject.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
